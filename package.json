@@ -1,0 +1,31 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.1",
+  "description": "A CLI bicycle-themed word guess game.",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heincm/constructor-word-guess.git"
+  },
+  "keywords": [
+    "word guess",
+    "hangman",
+    "homework",
+    "constructor",
+    "game"
+  ],
+  "author": "Chris Hein <chris.m.hein@gmail.com> (https://github.com/heincm)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heincm/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/heincm/constructor-word-guess#readme"
+}
