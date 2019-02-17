@@ -13,7 +13,7 @@ const wordGuess = require('constructor-word-guess-2');
 #### Quick Start
 Copy and paste the following into your index.js file:
 ```javascript
-const WordGuess = require('constructor-word-guess-2');
+const wordGuess = require('constructor-word-guess-2');
 let array = ['stringone', 'stringtwo', 'stringthree', 'stringfour'];
 
 wordGuess(array);
