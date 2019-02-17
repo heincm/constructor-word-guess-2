@@ -3,16 +3,16 @@ Welcome to Constructor Word Guess 2. Constructor Word Guess 2 is a colorful CLI-
 
 ## Getting Started
 To install on your local machine, run the following in your terminal:
-```
+```javascript
 $ npm install constructor-word-guess-2
 ```
 Create a .js file and use the following
-```
+```javascript
 const wordGuess = require('constructor-word-guess-2');
 ```
 #### Quick Start
 Copy and paste the following into your index.js file:
-```
+```javascript
 const WordGuess = require('constructor-word-guess-2');
 let array = ['stringone', 'stringtwo', 'stringthree', 'stringfour'];
 
@@ -20,7 +20,7 @@ wordGuess(array);
 ```
 To start the game, you must pass an array as an argument in your function. For example:
 
-```
+```javascript
 let array = ['stringone', 'stringtwo', 'stringthree', 'stringfour'];
 
 wordGuess(array);
