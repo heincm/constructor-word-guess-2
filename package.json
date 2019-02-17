@@ -1,7 +1,7 @@
 {
-  "name": "constructor-word-guess",
-  "version": "1.0.1",
-  "description": "A CLI bicycle-themed word guess game.",
+  "name": "constructor-word-guess-2",
+  "version": "1.0.0",
+  "description": "A colorful CLI-based word guessing game. You can use this to easily create a word guessing game with whatever words you choose.",
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.4.2",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heincm/constructor-word-guess.git"
+    "url": "git+https://github.com/heincm/constructor-word-guess-2.git"
   },
   "keywords": [
     "word guess",
@@ -25,7 +25,7 @@
   "author": "Chris Hein <chris.m.hein@gmail.com> (https://github.com/heincm)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/heincm/constructor-word-guess/issues"
+    "url": "https://github.com/heincm/constructor-word-guess-2/issues"
   },
-  "homepage": "https://github.com/heincm/constructor-word-guess#readme"
+  "homepage": "https://github.com/heincm/constructor-word-guess-2#readme"
 }
