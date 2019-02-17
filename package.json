@@ -1,6 +1,6 @@
 {
   "name": "constructor-word-guess-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A colorful CLI-based word guessing game. You can use this to easily create a word guessing game with whatever words you choose.",
   "main": "index.js",
   "dependencies": {
